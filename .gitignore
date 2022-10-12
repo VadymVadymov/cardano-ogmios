@@ -5,3 +5,6 @@ docs/static/api-reference.html
 ## Nix
 /result
 /result-*
+
+## Vscode workspace
+*.code-workspace
